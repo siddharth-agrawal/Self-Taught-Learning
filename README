@@ -1,0 +1,14 @@
+-> This is a solution to the Self Taught Learning exercise in the Stanford UFLDL Tutorial(http://ufldl.stanford.edu/wiki/index.php/Exercise:Self-Taught_Learning)
+-> The code has been written in Python using Scipy, Numpy and Matplotlib
+-> The code is bound by The MIT License (MIT)
+
+Running the code:
+
+-> Download the gunzip data files and the code file 'selfTaughtLearning.py'
+-> Put them in the same folder, extract the gunzips and run the program by typing in 'python selfTaughtLearning.py' in the command line
+-> You should first get an image of the learned Autoencoder weights similar to 'output.png'
+-> You should get an output saying 'Accuracy : 0.982', which signifies an accuracy of 98.2%
+-> The code takes about 330 minutes to execute on an i3 processor, yes that's right!
+
+Code written by: Siddharth Agrawal
+Email ID: siddharth.950@gmail.com
